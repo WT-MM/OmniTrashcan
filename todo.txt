@@ -1,0 +1,14 @@
+Figure out trigger mechanism:
+- pointing
+- trash detected
+- gesture
+
+Finish motor implementation
+
+Test omnidrive
+
+Design and build robot
+
+Possible features:
+- face detection
+- 
